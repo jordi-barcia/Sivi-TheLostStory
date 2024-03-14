@@ -1,1 +1,2 @@
 *.umap filter=lfs diff=lfs merge=lfs -text
+9X166GE55ALLT5RD4E52M5.uasset filter=lfs diff=lfs merge=lfs -text
